@@ -1,0 +1,30 @@
+C:\Users\Trainer 402\Desktop\UniversityApp\UniversityApp\bin\UniversityApp.dll.config
+C:\Users\Trainer 402\Desktop\UniversityApp\UniversityApp\bin\UniversityApp.dll
+C:\Users\Trainer 402\Desktop\UniversityApp\UniversityApp\bin\UniversityApp.pdb
+C:\Users\Trainer 402\Desktop\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csprojResolveAssemblyReference.cache
+C:\Users\Trainer 402\Desktop\UniversityApp\UniversityApp\obj\Debug\UniversityApp.dll
+C:\Users\Trainer 402\Desktop\UniversityApp\UniversityApp\obj\Debug\UniversityApp.pdb
+C:\Users\Trainer 402\Desktop\2018.11.05\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csprojResolveAssemblyReference.cache
+C:\Users\Trainer 402\Desktop\2018.11.05\UniversityApp\UniversityApp\obj\Debug\UniversityApp.dll
+C:\Users\Trainer 402\Desktop\2018.11.05\UniversityApp\UniversityApp\bin\UniversityApp.dll.config
+C:\Users\Trainer 402\Desktop\2018.11.05\UniversityApp\UniversityApp\bin\UniversityApp.dll
+C:\Users\Trainer 402\Desktop\2018.11.05\UniversityApp\UniversityApp\bin\UniversityApp.pdb
+C:\Users\Trainer 402\Desktop\2018.11.05\UniversityApp\UniversityApp\obj\Debug\UniversityApp.pdb
+E:\Files\bitm c\bitm cls\2018.11.07 3 layer architecture\UniversityApp\UniversityApp\bin\UniversityApp.dll.config
+E:\Files\bitm c\bitm cls\2018.11.07 3 layer architecture\UniversityApp\UniversityApp\bin\UniversityApp.dll
+E:\Files\bitm c\bitm cls\2018.11.07 3 layer architecture\UniversityApp\UniversityApp\bin\UniversityApp.pdb
+E:\Files\bitm c\bitm cls\2018.11.07 3 layer architecture\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csprojResolveAssemblyReference.cache
+E:\Files\bitm c\bitm cls\2018.11.07 3 layer architecture\UniversityApp\UniversityApp\obj\Debug\UniversityApp.dll
+E:\Files\bitm c\bitm cls\2018.11.07 3 layer architecture\UniversityApp\UniversityApp\obj\Debug\UniversityApp.pdb
+C:\Users\Trainer 402\Desktop\2018.11.07 cls main\UniversityApp\UniversityApp\bin\UniversityApp.dll.config
+C:\Users\Trainer 402\Desktop\2018.11.07 cls main\UniversityApp\UniversityApp\bin\UniversityApp.dll
+C:\Users\Trainer 402\Desktop\2018.11.07 cls main\UniversityApp\UniversityApp\bin\UniversityApp.pdb
+C:\Users\Trainer 402\Desktop\2018.11.07 cls main\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csprojResolveAssemblyReference.cache
+C:\Users\Trainer 402\Desktop\2018.11.07 cls main\UniversityApp\UniversityApp\obj\Debug\UniversityApp.dll
+C:\Users\Trainer 402\Desktop\2018.11.07 cls main\UniversityApp\UniversityApp\obj\Debug\UniversityApp.pdb
+C:\Users\Trainer 402\Desktop\2018.11.14\UniversityApp\UniversityApp\bin\UniversityApp.dll.config
+C:\Users\Trainer 402\Desktop\2018.11.14\UniversityApp\UniversityApp\bin\UniversityApp.dll
+C:\Users\Trainer 402\Desktop\2018.11.14\UniversityApp\UniversityApp\bin\UniversityApp.pdb
+C:\Users\Trainer 402\Desktop\2018.11.14\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csprojResolveAssemblyReference.cache
+C:\Users\Trainer 402\Desktop\2018.11.14\UniversityApp\UniversityApp\obj\Debug\UniversityApp.dll
+C:\Users\Trainer 402\Desktop\2018.11.14\UniversityApp\UniversityApp\obj\Debug\UniversityApp.pdb
